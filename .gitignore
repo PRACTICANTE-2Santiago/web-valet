@@ -24,8 +24,6 @@ npm-debug.log*
 /.sourcemaps
 /.versions
 /.vscode
-/js
-/includes
 /node_modules
 /plataforma
 /plugins
